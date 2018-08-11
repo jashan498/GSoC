@@ -1,2 +1,1 @@
-# GSoC
-GSoC 2018 Proposal and Report
+## GSoC 2018 Proposal and Report
